@@ -22,5 +22,5 @@ I'm also a **Certified Kubernetes Application Developer (CKAD)** and hold Oracle
 ### Find me elsewhere
 
 - [LinkedIn](https://www.linkedin.com/in/pankajy-dev/)
-- [Portfolio](https://pankajy-dev.github.io/portfolio/)
+- [Portfolio](https://pankajy.com/)
 
